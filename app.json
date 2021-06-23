@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "Radio Suisse Arabe",
+    "slug": "snack-208dc0f7-9905-4c66-9bea-261a66ff2496",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#e42220"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.radiosuissearabe.radiosuissearabe"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#e42220"
+      },
+      "package": "com.radiosuissearabe.radiosuissearabe"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
